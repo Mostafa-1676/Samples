@@ -5,7 +5,7 @@ No frameworks or libraries have been used — all code is written from scratch.
 
 ---
 
-## Project 1: Personal Web Resume
+## Project 1: Personal Resume
 
 A responsive and minimal web-based resume that displays personal information, skills, and experience in a clean layout.
 
